@@ -1,4 +1,9 @@
-# salmon-struggles
-Educational web game about the Salmon life cycle. Written in pixi.js.
+# Salmon Struggles
+Educational web game about the Salmon life cycle. Written in Javascript using pixi.js.
 
-Play the game here: https://ucd-cws.github.io/salmon-struggles/
+![Alt text](/screenshot.png "Screenshot")
+
+## Instructions
+Click to swim up.
+
+Play here: https://lilawren.github.io/salmon-struggles/
